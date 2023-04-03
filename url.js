@@ -9,6 +9,8 @@
 
 const urls = [
 	'https://hhming.moe',
-	'https://github.com/hms5232',
-	'https://gitlab.com/hms5232'
+	'https://tassel.syd1.qualtrics.com/jfe/form/SV_5vCRSKkCQoodS1o',
+	'https://tassel.syd1.qualtrics.com/jfe/form/SV_emM7PzCQfI1w8IK',
+	'https://tassel.syd1.qualtrics.com/jfe/form/SV_0ewnGPltqoEl31A',
+	'https://tassel.syd1.qualtrics.com/jfe/form/SV_0UGrjZovPvAm5OC'
 ];
